@@ -61,5 +61,12 @@
         "chap-h3.mp3",
         "chap-h4.mp3"
     ],
-    "sab": "sab-espresso.mp3"
+    "sab": "sab-espresso.mp3",
+    "smash":
+    [
+        "smash1.mp3",
+        "smash2.mp3",
+        "smash3.mp3",
+        "smash4.mp3"
+    ]
 }
